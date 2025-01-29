@@ -26,7 +26,7 @@ All responses are in **JSON format**.
 
 ```json
 {
-  "email": "abdullahayomide04@example.com",
+  "email": "abdullahayomide04@gmail.com",
   "current_datetime": "2025-01-29T22:20:39.475Z",
   "github_url": "https://github.com/Ayom04/HNG_backend_001"
 }
