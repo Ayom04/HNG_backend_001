@@ -9,7 +9,7 @@ app.use(cors());
 app.get("/", (req, res) => {
   try {
     return res.status(200).json({
-      email: "abdullahayomide04@example.com",
+      email: "abdullahayomide04@gmail.com",
       current_datetime: new Date().toISOString(),
       github_url: "https://github.com/Ayom04/HNG_backend_001", // Replace with your GitHub repo URL
     });
